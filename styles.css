@@ -1,0 +1,45 @@
+html {
+    width: 70%;
+    border: 3px solid purple;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
+
+  .subHeading {
+    color:green;
+    font-size: 32px;
+    text-align: center;
+    
+  }
+
+  p {
+    text-align: center;
+    color: blueviolet;
+  }
+
+  h2 {
+    margin-bottom: -10px;
+  }
+
+  ul {
+    line-height: 1.5;
+
+  }
+
+  .dp {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -10px;
+    border:1px solid red;
+  }
+
+  .heading{
+    text-transform: uppercase;
+    color:blue;
+
+  }
